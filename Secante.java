@@ -40,7 +40,7 @@ public class Secante {
         Secante var = new Secante();
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Método de la Regla Falsa");
+        System.out.println("Método de la Secante");
         System.out.println("\nFunciones: ");
         System.out.println("1.  f(x) = (x^10) - 1");
         System.out.println("2.  f(x) = x - 1");
